@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the reliefe and maintenance of sicke and maimed souldiers, and of poor widowes &amp; children of souldiers slain in the service of the Parliament : with the several summes of money which is to be rated and leavyed for the purpose, upon the severall counties herein mentioned.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22151</idno><idno type="EEBO-CITATION">12076103</idno>
+  <idno type="VID">196917</idno>
+  <idno type="EEBO-PROQUEST">2240954392</idno>
+  
+            <idno type="STC">Wing E2026</idno>
+            <idno type="OCLC">12076103</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E74, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the reliefe and maintenance of sicke and maimed souldiers, and of poor widowes &amp; children of souldiers slain in the service of the Parliament : with the several summes of money which is to be rated and leavyed for the purpose, upon the severall counties herein mentioned.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>November 2, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Military pensions --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196917:1"/>
+            <p> AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT.</p>
+            <p>For the Reliefe and Maintenance of sicke and maimed Souldiers, and of Poor Wid<g ref="char:EOLhyphen"/>dowes &amp; Children of souldiers slain in the Service of the Parliament.</p>
+            <p>With the severall Summes of Money which is to be rated and leavyed for that purpose, upon the se<g ref="char:EOLhyphen"/>verall Counties herein mentioned.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii, 1 Novemb. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons in Parliament, that this Ordi<g ref="char:EOLhyphen"/>nance be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London Printed for John Wright in the Old-bailey, <hi>November.</hi> 2 1643.</p>
+            <pb facs="tcp:196917:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:196917:2"/>
+            <head>An Ordinance of the Lords &amp; Com<g ref="char:EOLhyphen"/>mons Assembled in PARLIAMENT, For the Reliefe and maintenance of sicke and maimed Souldiers, and of poore Widdowes and children of Souldiers, slaine in the Service of the Parliament.</head>
+            <p>THe Lords and Commons Assembled in Par<g ref="char:EOLhyphen"/>liament, being desirous to use their utmost care for the reliefe and maintenance of the sicke and maimed Souldiers of the Parliaments Army, and to provide for the sustenance of poore wid<g ref="char:EOLhyphen"/>dowes and children of such Souldiers as have been slaine in the Service of the Parliament, doe hereby Ordaine, and be it Ordained by the said Lords and Commons, That all such poore Souldiers as have either passed the Chyrurgions hand, or shall lye un<g ref="char:EOLhyphen"/>der cure, and by the losse of any member or other maime in the Service of the Parliament, are or shall not be able to maintaine themselves during the time of such inability, and all such sicke &amp; wounded Soul<g ref="char:EOLhyphen"/>diers, as are or shall be sent sick or wounded from the said Army, during the time of such sicknesse and disa<g ref="char:EOLhyphen"/>bility for service; And all poore Widdowes and chil<g ref="char:EOLhyphen"/>dren of such Souldiers as have beene slaine in the a<g ref="char:EOLhyphen"/>foresaid
+<pb n="2" facs="tcp:196917:3"/> Service, and are not able of themselves to subsist during the time of such poverty, shall for the space of six moneths to begin from the first of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> next, be provided for and maintained in manner as is by this present Ordinance, Provided, Ordered, and appoynted: For which purpose the said Lords and Commons doe Ordaine, that the severall sums of Money ensuing shall be rated and levyed upon the severall Counties following, <hi>(viz)</hi>
+               <table>
+                  <head>Vpon the County of</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Berks.</hi>
+                     </cell>
+                     <cell>120.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bedford.</hi>
+                     </cell>
+                     <cell>100.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bucks.</hi>
+                     </cell>
+                     <cell>120.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cambridge &amp; the Isle of Ely.</hi>
+                     </cell>
+                     <cell>120.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Essex.</hi>
+                     </cell>
+                     <cell>300.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hertford.</hi>
+                     </cell>
+                     <cell>120.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Huntingdon.</hi>
+                     </cell>
+                     <cell>080.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hampshire.</hi>
+                     </cell>
+                     <cell>200.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kent.</hi>
+                     </cell>
+                     <cell>300.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Midd.</hi>
+                     </cell>
+                     <cell>125.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Northampt.</hi>
+                     </cell>
+                     <cell>200.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Norff. and City of Norwich.</hi>
+                     </cell>
+                     <cell>300.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Suff.</hi>
+                     </cell>
+                     <cell>300.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sussex.</hi>
+                     </cell>
+                     <cell>250.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Surrey. with the Bur<g ref="char:EOLhyphen"/>rough of Southwa.</hi>
+                     </cell>
+                     <cell>145.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Cities of London and VVest<g ref="char:EOLhyphen"/>minster within the Suburbs.</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table> For the rating, levying, and collecting whereof, Be it Ordained by the said Lords and Commons, that all and every the High Constables of the severall Counties aforesaid shall upon the first notice hereof meet together &amp; divide the sums set upon the severall Counties and upon the severall Hundreds, in such
+<pb n="3" facs="tcp:196917:3"/> Proportion as they were rated upon the first pay<g ref="char:EOLhyphen"/>ment of the Subsidie of 400000 l. And after the di<g ref="char:EOLhyphen"/>vision of the said sum in the severall Hundreds, then the particular High Constables of every hundred re<g ref="char:EOLhyphen"/>spectively shall be hereby Authorized and required, forthwith to Issue out their Warrants &amp; Precepts to the Petty Constables of the Towns, Parishes, and Hamlets within their respective Hundreds and divi<g ref="char:EOLhyphen"/>visions, and also to such other persons as the said High Constables shall thinke fit to imploy as Assi<g ref="char:EOLhyphen"/>stants therein, for the levying and collecting such sums of Money as by the High Constable of each Hundred or division, or such as they shall appoynt, shall be proportioned and rated upon the severall In<g ref="char:EOLhyphen"/>habitants of each Parish, Towne, or Hamlet, with<g ref="char:EOLhyphen"/>in their respective Hundred or division, and in case of refusall or neglect of any person or persons so rated to pay the same, to Authorize the said Petty Consta<g ref="char:EOLhyphen"/>bles and the said other persons to be appoynted as Assistants therein, to distraine the Goods and Chat<g ref="char:EOLhyphen"/>tels of such person so refusing or neglecting as a<g ref="char:EOLhyphen"/>foresaid, and to sell the same for the service and pur<g ref="char:EOLhyphen"/>poses aforesaid, and that for the Cities of <hi>London</hi> and <hi>Westminster,</hi> and Suburbs thereof, the Com<g ref="char:EOLhyphen"/>mittee for the <hi>Militia,</hi> doe likewise upon notice here<g ref="char:EOLhyphen"/>of Issue forth their Warrants and Precepts to the Church-wardens of the severall Parishes within the said Cities and Suburbs, and such others as they shall thinke fit for the rating, levying, and col<g ref="char:EOLhyphen"/>lecting such sums of Money, as they shall proportion to be rated and collected upon the severall Parishes
+<pb n="4" facs="tcp:196917:4"/> within the said Cities of <hi>London</hi> and <hi>Westminster,</hi> and the Suburbs thereof, and in case of refusall or neglect as above said, the like course to be taken by way of distresse as is afore directed for the severall Counties, And also that the said High Constables and church-Wardens doe certifie the names of all such persons so refusing or neglecting to the Treasu<g ref="char:EOLhyphen"/>rers hereafter named, who are to signifie the same to the Committee of the House of Commons for mai<g ref="char:EOLhyphen"/>med Souldiers, to the end such persons may be pro<g ref="char:EOLhyphen"/>ceeded against according to Iustice.</p>
+            <p>And it is also Ordained, that the high Constables of the severall Counties shall receive the moneyes so leavied and collected within their respective hundred and divisions and upon receipt thereof shall within three weekes next after the receipt of this Ordinance bring the said moneyes or cause the same to be brought to <hi>Cord-Winers-Hall</hi> in <hi>London;</hi> And the Churchwardens of the severall Parishes within the Cities of <hi>London,</hi> and <hi>Westminster,</hi> and the Suburbs, are to receive the moneyes leavied upon their respective Parishes, &amp; within fourteene dayes to make returne thereof to <hi>Cord-winers-Hall</hi> in <hi>London</hi> as aforesaid: at which place of receipt, <hi>William Greenehill, John Pocock, John Randall</hi> and <hi>Richard Hutchinson</hi> Citizens of <hi>London,</hi> or some of them, are hereby appointed to receive the same every <hi>Tuesday,</hi> and <hi>Friday,</hi> and to be Treasurers for the same, and to give receipts and discharges for the same under their or some of their hands.</p>
+            <p>And it is further Ordained by the said Lords and
+<pb n="5" facs="tcp:196917:4"/> Commons that the money so leavied and received by the said Treasurers as aforesaid, shall be by them or any two of them disposed of for the best advantage and for the uses and purposes aforesaid, so that not above foure shillings be allowed weeekely to any such maimed, wounded, diseased, or sicke Souldier, or poore family as aforesaid.</p>
+            <p>And it is further Ordained by the said Lords and Commons that for the better executing of this Or<g ref="char:EOLhyphen"/>dinance, <hi>Nathaniel Wyburne</hi> and <hi>Roger Bincks</hi> Gent. or such others as they the said Treasurers shall appoint, shall be imployed as Agents into the said severall Counties to give notice hereof to the said severall high Constables, and to certifie the Committee of the house of Commons, for maimed Souldiers, of any obstruction or neglect that shall be or arise in any person, or persons, to hinder the exe<g ref="char:EOLhyphen"/>cution of this Ordinance and who causeth thc same and to doe, and performe such other service in the pursuance hereof, as to the said Committee or to the Treasurers aforesaid, shall be conceived requisite for the due execution of this Ordinance</p>
+            <p>And it is lastly Ordained by the said Lords and Commons, that the said Treasurers and Agents from time to time shall receive such allowance for their paines and charges in the executing of this present Ordinance, as by the said Committee of the house of Commons shall be allowed and appointed, by which Committee the said Tresurers shalbe from time to time directed, and shall yeild an accompt unto them, when the same shall be required.</p>
+            <pb n="6" facs="tcp:196917:5"/>
+            <p> Provided alwayes that where any Captaine under whose command any such sicke or maimed Souldi<g ref="char:EOLhyphen"/>er is or hath beene listed shal receive pay for any such sicke or maimed Souldier, that notwithstanding the allowance before mentioned to any such sicke or mai<g ref="char:EOLhyphen"/>med Souldier, the said Captaine that shall ceceive such allowance, shall pay and allow the same to the said Souldier.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
